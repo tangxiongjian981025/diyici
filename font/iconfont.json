@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7772176",
+      "name": "icon_cmail",
+      "font_class": "icon_cmail",
+      "unicode": "eba5",
+      "unicode_decimal": 60325
+    },
+    {
+      "icon_id": "7772178",
+      "name": "icon_boss_fill",
+      "font_class": "icon_boss_fill",
+      "unicode": "eba6",
+      "unicode_decimal": 60326
+    },
+    {
+      "icon_id": "7772217",
+      "name": "icon_phone_fill",
+      "font_class": "icon_phone_fill",
+      "unicode": "ebad",
+      "unicode_decimal": 60333
+    },
+    {
+      "icon_id": "11556678",
+      "name": "下箭头备份 3",
+      "font_class": "xiajiantoubeifen",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11556683",
+      "name": "放大镜备份",
+      "font_class": "fangdajingbeifen",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "11556688",
+      "name": "加备份",
+      "font_class": "jiabeifen",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11556692",
+      "name": "切换列",
+      "font_class": "qiehuanlie",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "11556702",
+      "name": "上传备份",
+      "font_class": "shangchuanbeifen",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11604307",
+      "name": "资源 191",
+      "font_class": "ziyuan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11604323",
+      "name": "资源 209",
+      "font_class": "ziyuan1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11613937",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
